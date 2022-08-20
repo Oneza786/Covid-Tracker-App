@@ -31,4 +31,4 @@ We built a web application using the data repository for the 2019 Novel Coronavi
 
 
 ## Screenshots
-![2022-08-20] (https://github.com/Oneza786/Covid-Tracker-App/blob/master/s1.png)
+![2022-04-02 (5)] (https://github.com/Oneza786/Covid-Tracker-App/blob/master/s1.png)
