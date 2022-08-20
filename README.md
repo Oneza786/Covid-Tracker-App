@@ -30,9 +30,12 @@ We built a web application using the data repository for the 2019 Novel Coronavi
 - Updates the count of reported cases in the first hour everyday
 
 
-## Screenshots
+## Web Application UI
 
 ![2022-04-02 (5)](https://github.com/Oneza786/Covid-Tracker-App/blob/master/s1.png)
+
 ![2022-04-02 (5)](https://github.com/Oneza786/Covid-Tracker-App/blob/master/s2.png)
+
 ![2022-04-02 (5)](https://github.com/Oneza786/Covid-Tracker-App/blob/master/s3.png)
+
 ![2022-04-02 (5)](https://github.com/Oneza786/Covid-Tracker-App/blob/master/s4.png)
